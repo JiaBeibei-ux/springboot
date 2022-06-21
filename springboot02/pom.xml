@@ -45,7 +45,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.35</version>
+            <version>8.0.28</version>
         </dependency>
 
         <!--导入配置文件处理器，配置文件进行绑定就会有提示-->
